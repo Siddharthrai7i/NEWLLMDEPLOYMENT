@@ -1,0 +1,11 @@
+langchain
+huggingface_hub
+fpdf 
+streamlit
+pickle
+io
+os
+langchain_community.llms
+langchain.prompts
+langchain.chains
+dotenv
