@@ -1,6 +1,5 @@
 langchain
 fpdf 
 streamlit
-io
 os
 langchain
