@@ -1,5 +1,0 @@
-langchain
-fpdf 
-streamlit
-os
-langchain
